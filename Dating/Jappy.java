@@ -14,8 +14,8 @@ public class Jappy extends Portal {
 	static final String CONVERSATION_PATH = "/mailbox/conversation/";
 	static final String CONVERS_FORM_TAG = "<form id=\"textform\">";
 	// login data
-	private static final String USERNAME = "schlappy";
-	private static final String PASSWORD = "hL-7fQoz2";
+	private static final String USERNAME = "";
+	private static final String PASSWORD = "";
 	// attribute values
 	private static final String USER_TEXTFIELD_NAME = "login[u]";
 	private static final String PASS_TEXTFIELD_NAME = "login[p]";
